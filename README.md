@@ -56,7 +56,7 @@
 ### 📔 <a id="프로젝트"></a> 프로젝트
   - 우울증 검사 사이트(react)
   - 일기예보 앱(expo)
-  - 1주년 기념 웹사이트(react)
+  - [1주년 기념 웹사이트(react)](https://github.com/Usopked/Event)
 
 
 ### 📊 <a id="데이터분석"></a> 데이터분석
