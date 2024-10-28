@@ -54,8 +54,8 @@
 
 
 ### 📔 <a id="프로젝트"></a> 프로젝트
-  - 우울증 검사 사이트(react)
-  - 일기예보 앱(expo)
+  - [우울증 검사 사이트(react)](https://github.com/Usopked/Phone_first)
+  - [일기예보 앱(expo)](https://github.com/Usopked/DemoApp)
   - [1주년 기념 웹사이트(react)](https://github.com/Usopked/Event)
 
 
