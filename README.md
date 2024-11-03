@@ -57,7 +57,7 @@
   - [우울증 검사 사이트(react)](https://github.com/Usopked/Phone_first)
   - [일기예보 앱(expo)](https://github.com/Usopked/DemoApp)
   - [1주년 기념 웹사이트(react)](https://github.com/Usopked/Event)
-  - [고교동창 전용 커뮤니티]()
+  - [고교동창 전용 커뮤니티](https://github.com/Usopked/Deagan_Incide)
 
 
 ### 📊 <a id="데이터분석"></a> 데이터분석
